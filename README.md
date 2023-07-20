@@ -1,6 +1,10 @@
 ### Hello There!
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white"/> <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/> <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> | <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&logo=Python&logoColor=white"/> <img alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&logo=Tensorflow&logoColor=white"/> <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&logo=PyTorch&logoColor=white"/> <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white"/> | <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&logo=cplusplus&logoColor=white"/> 
+
+<img alt="Codeforce" src ="https://img.shields.io/badge/Codeforces_1869-1F8ACB.svg?&logo=Codeforces&logoColor=white"/> - [Profile](https://codeforces.com/profile/hunni10)
+
+<img alt="Baekjoon" src ="https://img.shields.io/badge/Baekjoon-1F8ACB.svg?"/> - [Profile](https://www.acmicpc.net/user/hunni10)
 
 ---
 
