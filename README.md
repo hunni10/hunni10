@@ -9,7 +9,11 @@
 ---
 
 
+
 - [Project Collection](https://github.com/hunni10/projects): Lab project, personal project, etc.
+  - [Transformer with Pointer for Combinatorial Optimization](https://github.com/hunni10/projects/tree/master/Pointer-Network) 
+  - [Smart Water Faulty Detection](https://github.com/hunni10/projects/tree/master/%EC%88%98%EB%8F%84%EA%B4%80%EB%A7%9D%EA%B3%A0%EC%9E%A5%EC%98%88%EC%B8%A1)
+  - [DNN-based Mesh Refinement (GNN, GCN, CNN)](https://github.com/hunni10/projects/tree/master/Mesh%20Refinement%20in%20CD-Nozzle)
 - [Delaunay Dataset](https://github.com/hunni10/DelaunayDataset): Used in [our paper](https://arxiv.org/abs/2107.01759).
 
 
